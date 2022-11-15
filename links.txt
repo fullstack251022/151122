@@ -1,1 +1,3 @@
 https://www.programiz.com/java-programming/examples/pyramid-pattern
+
+https://www.developer.com/design/understanding-the-java-labeled-statement/#:~:text=The%20continue%20Statement%2C%20with%20a%20Label&text=As%20soon%20as%20the%20labeled,the%20enclosing%20labeled%20loop%20statements.
